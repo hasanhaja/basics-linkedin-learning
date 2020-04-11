@@ -1,3 +1,7 @@
+/**
+ * This is a simple quadratic sovler.
+ * 
+ */
 let quadraticSolver = (a, b, c) => {
   let discriminant = b *. b -. 4.0 *. a *. c;
   if (discriminant < 0.0) {

@@ -38,5 +38,4 @@ console.log(nums);
 console.log(numsTimesTwo);
 
 exports.nums = nums;
-exports.numsTimesTwo = numsTimesTwo;
 /* match Not a pure module */
